@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "36uoJmb/LJQFWyvOQhUeysmhvjvGzFNQZAaKVOLZnb28K0FZZsyiIJpH3eZo57/zOxhul7vsQrGpz0l89W3m8Q==",
+  "dgSpecHash": "Op3pqDYcMhAss5u+DRsOLISrLmiOmcvKbqTn/UDc2ea3rzykoTcybXml4shVbcg3sO5pquuTExToEQ8BKpmevQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kapeg\\Source\\Repos\\shopAPI_ANIMALS\\ShopAPI\\ShopAPI.csproj",
+  "projectFilePath": "C:\\Users\\kapeg\\Documents\\GitHub\\PetShop\\ShopAPI\\ShopAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kapeg\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\kapeg\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

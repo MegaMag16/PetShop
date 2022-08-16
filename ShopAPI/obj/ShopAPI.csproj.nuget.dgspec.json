@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kapeg\\Source\\Repos\\shopAPI_ANIMALS\\ShopAPI\\ShopAPI.csproj": {}
+    "C:\\Users\\kapeg\\Documents\\GitHub\\PetShop\\ShopAPI\\ShopAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kapeg\\Source\\Repos\\shopAPI_ANIMALS\\ShopAPI\\ShopAPI.csproj": {
+    "C:\\Users\\kapeg\\Documents\\GitHub\\PetShop\\ShopAPI\\ShopAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kapeg\\Source\\Repos\\shopAPI_ANIMALS\\ShopAPI\\ShopAPI.csproj",
+        "projectUniqueName": "C:\\Users\\kapeg\\Documents\\GitHub\\PetShop\\ShopAPI\\ShopAPI.csproj",
         "projectName": "ShopAPI",
-        "projectPath": "C:\\Users\\kapeg\\Source\\Repos\\shopAPI_ANIMALS\\ShopAPI\\ShopAPI.csproj",
+        "projectPath": "C:\\Users\\kapeg\\Documents\\GitHub\\PetShop\\ShopAPI\\ShopAPI.csproj",
         "packagesPath": "C:\\Users\\kapeg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kapeg\\Source\\Repos\\shopAPI_ANIMALS\\ShopAPI\\obj\\",
+        "outputPath": "C:\\Users\\kapeg\\Documents\\GitHub\\PetShop\\ShopAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kapeg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,7 +83,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -95,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
